@@ -1,2 +1,2 @@
-# pueba
+# prueba
 Repositorio de prueba
